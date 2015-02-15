@@ -12,3 +12,8 @@ What is the benefit of having a copy of the last known state of the remote store
  
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
  Manually via dropbox. Saving files in different names which is not easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ For experimental code or to offer an idea to the rest of team which needs being looked at. 
+ If it is changed directly in the master branch it won't need pulling pushing merging pulling from/to github.
+ 
